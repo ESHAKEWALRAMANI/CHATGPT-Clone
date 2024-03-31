@@ -8,6 +8,7 @@ activate conda environment
 
         source activate venv/
 
-        Install requirements
+
+Install requirements
 
           pip install -r requirements.txt
